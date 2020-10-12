@@ -1,0 +1,13 @@
+.OrderSummary {
+    margin: auto;
+    padding: 5px;
+}
+
+.OrderSummary h3 {
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: rgb(231, 228, 228);
+}

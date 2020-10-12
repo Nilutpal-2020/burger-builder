@@ -1,3 +1,15 @@
+To start using this project locally:
+
+## Download or clone the folder into your computer
+
+## Go the folder from your terminal
+
+## Run `npm install`
+
+## Then `npm start`
+
+## For further queries follow the steps below:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
