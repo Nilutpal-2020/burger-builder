@@ -2,7 +2,7 @@ To start using this project locally:
 
 ## Download or clone the folder into your computer
 
-## Go the folder from your terminal
+## Go to the folder 'burger-builder' from your terminal
 
 ## Run `npm install`
 
